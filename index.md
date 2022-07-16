@@ -15,8 +15,10 @@ Plusieurs thèmes seront abordés :
   <img class="card-img-top" src="picture/missions.jpg" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Mes missions</h5>
-    <p class="card-text">Quelles étaient mes missions, dans quel but ?</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <p class="card-text">Quelles étaient mes missions ?</p>
+    <p class="card-text">Quelles compétences a été acquis ? </p>
+    <p class="card-text">Quel est le lien entre ma formation et mes missions </p>
+    <a href="https://clementadm.github.io/internship-report/missions" class="btn btn-primary">Lire l'article</a>
   </div>
 </div>
 
