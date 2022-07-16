@@ -13,6 +13,4 @@ Cela m'a conforté dans le choix de continuer dans cette voie.
 C'est pour cele que j'ai rejoins Ynov Campus. Ma volonté étant de poursuivre vers un Master en traitement de données ou tournée vers l'IA.
 
 **Mon CV**
-<object width="400" height="500" type="application/pdf" data="/CV_Clement_AUGIER_de_MOUSSAC_2022.pdf.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
-</object>
+<iframe src="CV_Clement_AUGIER_de_MOUSSAC_2022.pdf" style="width:1000px; height:800px;" frameborder="0" allowfullscreen></iframe>
