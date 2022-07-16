@@ -1,6 +1,25 @@
-## Welcome to GitHub Pages
+## Bienvenue sur mon blob récapitulatif de stage 
 
-You can use the [editor on GitHub](https://github.com/Clementadm/internship-report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sur ce site, vous trouverez la rétrospective de mon expérience en stage chez Barriere Freres.
+Plusiuers thèmes seront abordés :
+    - Mes missions
+    - Les difficultés éventuelles rencontrées & les solutions apportées  
+	- Le lien entre ma formations et mes missions
+	- Les compétences acquises
+	- L’actualité
+
+### Articles
+
+<div class="card" style="width: 18rem;">
+  <img class="card-img-top" src="internship-report/picture/missions.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">Mes missions</h5>
+    <p class="card-text">Quelles étaient mes missions, dans quel but ?</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+trouverez ici You can use the [editor on GitHub](https://github.com/Clementadm/internship-report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
