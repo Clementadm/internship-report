@@ -40,7 +40,7 @@ Plusieurs thèmes seront abordés :
 <div class="row">
     <div class="col-sm-6">
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="picture/missions.jpg" alt="Card image cap">
+            <img class="card-img-top" src="picture/news.jpg" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Actualités</h5>
                 <p class="card-text">Actualités en relations avec mon parcours scolaire et mes missions</p>
