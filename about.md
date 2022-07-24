@@ -13,7 +13,7 @@ C'est pour cele que j'ai rejoins Ynov Campus. Ma volonté étant de poursuivre v
 
 **Mon CV**
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://clementadm.github.io/internship-report/CV_Clement_AUGIER_de_MOUSSAC_2022.pdf" width="100" height="100" type="application/pdf">
+viewer?embedded=true&url=https://clementadm.github.io/internship-report/CV_Clement_AUGIER_de_MOUSSAC_2022.pdf" width="300" height="200" type="application/pdf">
 
   
 N'hésitez à me contacter via [Linkedin](https://www.linkedin.com/in/cl%C3%A9ment-a-4861471b6/)
