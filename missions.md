@@ -52,7 +52,7 @@
             <div class="card-body">
                 <h5 class="card-title">Formations</h5>
                 <p class="card-text">fonctionnement négociant vins, myReport, Oeno20, ID200, autres logiciel</p>
-                <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/divers';" class="btn btn-outline-light">Lire l'article</button>
+                <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/formation';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
     </div>
