@@ -2,7 +2,7 @@
   <input type="hidden" name="_subject" value="Contact request from clementadm.github.io/internship-report/contact" />
   <div class="form-group">
     <label for="exampleFormControlInput1">Adresse mail</label>
-    <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+    <input type="email" name="_replyto" class="form-control" placeholder="name@example.com" required>
   </div>
   <div class="form-group">
     <label for="exampleFormControlSelect1">Sujet</label>
