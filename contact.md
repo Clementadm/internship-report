@@ -5,6 +5,14 @@
     <input type="email" name="_replyto" class="form-control" placeholder="name@example.com" required>
   </div>
   <div class="form-group">
+    <label for="exampleFormControlSelect1">Sujet</label>
+    <select class="form-control" id="exampleFormControlSelect1" name="sujet">
+      <option>Prise de contact</option>
+      <option>Demande d'informations</option>
+      <option>Emplois</option>
+    </select>
+  </div>
+  <div class="form-group">
     <label for="exampleFormControlTextarea1">Message</label>
     <textarea class="form-control" id="exampleFormControlTextarea1" name="message" placeholder="Merci d'insérer un message" required></textarea>
   </div>
