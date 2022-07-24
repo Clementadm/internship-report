@@ -19,10 +19,6 @@
                 <button onclick="location.href='https://clementadm.github.io/internship-report/missions/automatisationsexcel';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
-    </div>
-</div>
-<div class="row">
-    <div class="card-deck">
         <div class="col-sm-6">
         <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
             <div class="card-header">Missions principale</div>
