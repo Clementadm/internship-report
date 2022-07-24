@@ -1,4 +1,4 @@
-# Toutes mes missions
+# all missions
 <div class="row">
     <div class="col-sm-6">
         <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
@@ -20,6 +20,9 @@
             </div>
         </div>
     </div>
+</div>
+
+<div class="row">
     <div class="col-sm-6">
         <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
             <div class="card-header">Missions principale</div>
@@ -39,6 +42,9 @@
             <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/divers';" class="btn btn-outline-light">Lire l'article</button>
         </div>
     </div>
+</div>
+
+<div class="row">
     <div class="col-sm-6">
         <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
             <div class="card-header">Missions principale</div>
