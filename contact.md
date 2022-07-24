@@ -6,7 +6,7 @@
   </div>
   <div class="form-group">
     <label for="exampleFormControlTextarea1">Message</label>
-    <textarea name="message" placeholder="Merci d'insérer un message" required></textarea>
+    <textarea class="form-control" id="exampleFormControlTextarea1" name="message" placeholder="Merci d'insérer un message" required></textarea>
   </div>
   <button type="submit">Envoyer</button>
 </form>
