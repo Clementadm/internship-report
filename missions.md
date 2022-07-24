@@ -13,7 +13,7 @@
     <div class="card-body">
       <h5 class="card-title">Automatisation de fichiers Excel</h5>
       <p class="card-text">liste fichiers excel</p>
-      <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/autoexcel';" class="btn btn-dark">Lire l'article</button>
+      <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/autoexcel';" class="btn btn-outline-light">Lire l'article</button>
     </div>
   </div>
   
