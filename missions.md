@@ -39,5 +39,14 @@
             <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/divers';" class="btn btn-outline-light">Lire l'article</button>
         </div>
     </div>
+    <div class="col-sm-6">
+        <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
+            <div class="card-header">Missions principale</div>
+            <div class="card-body">
+            <h5 class="card-title">Formations</h5>
+            <p class="card-text">fonctionnement négociant vins, myReport, Oeno20, ID200, autres logiciel</p>
+            <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/divers';" class="btn btn-outline-light">Lire l'article</button>
+        </div>
+    </div>
 </div>
 
