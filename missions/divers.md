@@ -1,1 +1,27 @@
 # divers
+- mise en place de la téléphonie avec l'entreprise MAIANO
+- En vue d'un déménagement des bureaux du service informatique :
+  - trie du matériel informatique (focntionne ou pas, out of date, ...)
+  - rangement par catégorie de cables
+  - divison des écran par type de port et si ordi neuf voir si collegues n'en veulent pas pour remplacer leurs plus vieux 
+- lors déménagement 
+  - aider utilisateur à 
+      - rebrancher leurs poste (Wyse, ordi portable et fixe)
+      - déplacer leurs téléphones à Ip
+      - déplacer les bureaux
+      - rebrancher les cables ethenet 
+  - rebrasser la baie informatique (rebrancher sur les bons switch et toout noter sur excel par utilisateur et device)
+  - mettre les prise ethernet au mur sur les bons réseaux (si wyse alors réseaux des wyse, si téléphones alors réseau téléphone) => sécuriter et isolation des devices
+- recherche visualisation pour les prochains analyse
+- recherche de projet à mettre en place (heatmap taux remplissage entrepots)  
+- receuil des différentes analyse souhaités au près des responseble de service (supply chain, entrepots, av assitance ventes, commerciaux) 
+- réalisation de documentation 
+  - documentation réaliser une réunion depuis salle de dégustation avec ordinateur mit en place pour commerciaux
+  - documentation rélisation réunion depuis salle de réunion pour tout le monde depuis un tableau interractif
+  - réflexion charte informatique le fond et la forme => dynamiser la charte afin que les employées la lise (usesecure, vidéo, papier à signer, support papier)
+- mise en place d'une to do afin de lister et prioriser les taches à faire (demande du responsable dès l'entrée en stage)
+- archivage des pst user outlook 
+- configurer téléphone ip salle réunion en important contact
+- mise à jour es terminaux utiliser dans l'entrepots (contact avec la société afin d'etre dépanner)
+- lire documentation faite par responsable pour s'informer sur les projet mit en place et futur (copil,équipement présent, plans réseau, schéma SI)
+- participation à la reprise de donnée de beychevlle et beaumont pour le passage au nouveau logiciel nommée Primus (récupération ancienne données, nettoyage de données, traitement de donnés)
