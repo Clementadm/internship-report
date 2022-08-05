@@ -5,7 +5,7 @@
             <div class="card-header">Missions Principale</div>
             <div class="card-body">
                 <h5 class="card-title">Analyse de stock</h5>
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Récupération, traitement, analyse et restitution de la données via Python</p>
                 <button onclick="location.href='https://clementadm.github.io/internship-report/missions/stockanalyse';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
@@ -15,7 +15,7 @@
             <div class="card-header">Missions annexe</div>
             <div class="card-body">
                 <h5 class="card-title">Automatisation de fichiers Excel</h5>
-                <p class="card-text">liste fichiers excel</p>
+                <p class="card-text">Automatisation des processus de mise en forme, de récupération et de traitement de la données pour les différents services</p>
                 <button onclick="location.href='https://clementadm.github.io/internship-report/missions/automatisationsexcel';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
@@ -28,7 +28,7 @@
             <div class="card-header">Missions principale</div>
             <div class="card-body">
                 <h5 class="card-title">Participations aux réunions</h5>
-                <p class="card-text">réunion décisiosn, télpéhonie, changement serveur, problemes, audit</p>
+                <p class="card-text">Assiter aux différentes prise de décisions sur les sujets propres aux service informatique du groupe (décisiosn, télpéhonie, changement serveur, problemes, audit)</p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/reunions';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
@@ -38,7 +38,7 @@
             <div class="card-header">Missions annexe</div>
             <div class="card-body">
                 <h5 class="card-title">Divers</h5>
-                <p class="card-text">missions annexe : téléphonie, trie matériel info, recherche visualisation remplissage entreprots, </p>
+                <p class="card-text">Missions annexe : téléphonie, trie matériel info, recherche visualisation remplissage entreprots, </p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/divers';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
@@ -51,7 +51,7 @@
             <div class="card-header">Missions principale</div>
             <div class="card-body">
                 <h5 class="card-title">Formations</h5>
-                <p class="card-text">fonctionnement négociant vins, myReport, Oeno20, ID200, autres logiciel</p>
+                <p class="card-text">Apprentissage des différents logiciels métier(myReport, Datto), du domaine du vins(Oeno20, ID200) ainsi que le fonctionnement négociant vins</p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/formation';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
