@@ -1,6 +1,6 @@
 # Challenge
 
-jour ou coupure électrique te seul pour gérer la reprise d'activitées informatiquement parlant
+jour ou coupure électrique te seul (responsable n'étant pas sur site) pour gérer la reprise d'activitées informatiquement parlant
 - configuration ordinateur portable (sessions, connexion bureau distant rds)
 ==> Donner idée mise en place procédures à faire valider dans le cas ou cela se reproduirait
 
