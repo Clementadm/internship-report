@@ -12,4 +12,14 @@ nos droits et devoir
 le choix des graphiques et voir si bien compréhensible
 après chaque analyse demandent avis collègues et retravaillent analyse jusqu'à quelques puissent être compréhensible par toute le monde
 retravaille des échelles après demande du  directeur 
+ 
+lors analyse données manquante ou fausses 
+discussions avec les différents service afin de prendre une décision si données doit être prise en compte, réajuster ou supprimer
+ 
+Après analyse nbr de bouteilles en stock finis ainsi que prédictions faite, j'ai montré résultat responsable logistique et analyse erronées / faux
+du coup on après discussions on a définit sur quels données se basées et en filtrant uniquement celle qui nous intéressaient c'est à dire en enlevant quelques articles et du tb qui faussaient le tout)
+ 
+lors mit à jours des devices, impossible de réaliser car bloqué malgré réalisation procédure instruite par responsable 
+du coup prise contact avec le support du fournisseurs ainsi que le revendeur 
+ 
 
