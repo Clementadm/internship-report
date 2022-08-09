@@ -28,7 +28,7 @@
             <div class="card-header">Missions principale</div>
             <div class="card-body">
                 <h5 class="card-title">Participations aux réunions</h5>
-                <p class="card-text">Assiter aux différentes prise de décisions sur les sujets propres aux service informatique du groupe (décisiosn, télpéhonie, changement serveur, problemes, audit)</p>
+                <p class="card-text">Assister aux différentes prise de décisions sur les sujets propres aux service informatique du groupe (décision, téléphonie, changement serveur, problemes, audit)</p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/reunions';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
@@ -38,7 +38,7 @@
             <div class="card-header">Missions annexe</div>
             <div class="card-body">
                 <h5 class="card-title">Divers</h5>
-                <p class="card-text">Missions annexe : téléphonie, trie matériel info, recherche visualisation remplissage entreprots, </p>
+                <p class="card-text">Mise en place téléphonie, trie matériel info, recherche visualisation remplissage entrepôts</p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/divers';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
@@ -51,7 +51,7 @@
             <div class="card-header">Missions principale</div>
             <div class="card-body">
                 <h5 class="card-title">Formations</h5>
-                <p class="card-text">Apprentissage des différents logiciels métier(myReport, Datto), du domaine du vins(Oeno20, ID200) ainsi que le fonctionnement négociant vins</p>
+                <p class="card-text">Apprentissage des différents logiciels métier(myReport, Datto), du domaine du vins (Oeno20, ID200) ainsi que le fonctionnement négociant vins</p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions/formation';" class="btn btn-outline-light">Lire l'article</button>
             </div>
         </div>
