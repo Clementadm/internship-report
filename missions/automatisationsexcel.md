@@ -6,9 +6,9 @@ La mise en place de fichier automatisé inclus :
 - l’application à chaque feuille d’une mise en page adaptée    
   - Mise en forme conditionnelle  
   - définition/cadrage de la données dans des tableaux   
- - le traitement et la manipulation de la données  
+ - le traitement et la manipulation de la données
   - conversion de type de données (exemple: texte vers date, texte vers nombre, ajout de pourcentage et de signes monétaires, etc)  
-  - la sélection du nombre de caractères à afficher   
+  - la sélection du nombre de caractères à afficher
 - Obtention de la données via la source de données (tableau, logiciel, autre feuilles excel, etc)  
    
      
