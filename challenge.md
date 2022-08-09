@@ -1,4 +1,4 @@
-# Challenge
+# Les divers defis surpassés
 
 jour ou coupure électrique te seul (responsable n'étant pas sur site) pour gérer la reprise d'activitées informatiquement parlant
 - configuration ordinateur portable (sessions, connexion bureau distant rds)
