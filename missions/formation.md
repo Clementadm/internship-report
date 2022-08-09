@@ -1,6 +1,6 @@
 # formation
 My report 
-- récuépration de données
+- récupération de données
 - réalisation de pipeline 
 - génération de report automatique sous forme de tableau
 
@@ -23,6 +23,6 @@ formation excel à l'aide responsable
 
 formation gestion SI (AD, monitoring équipement, gestion accès)
 
-explication poussé reseau et VLAN
+explication poussé réseau  et VLAN
 
 
