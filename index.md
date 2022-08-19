@@ -6,7 +6,7 @@ Vous y trouverez la rétrospective de mon expérience en stage chez Barriere Fr�
 Plusieurs thèmes seront abordés :  
     - Mes missions  
     - Les difficultés éventuelles rencontrées & les solutions apportées    
-	- Le lien entre ma formations et mes missions  
+	- Le lien entre ma formation et mes missions  
 	- Les compétences acquises  
 	- L’actualité  
 
@@ -19,7 +19,7 @@ Plusieurs thèmes seront abordés :
             <div class="card-body">
                 <h5 class="card-title">Mes missions</h5>
                 <p class="card-text">Quelles étaient mes missions ?</p>
-                <p class="card-text">Quelles compétences a été acquis ? </p>
+                <p class="card-text">Quelles ont été les compétences acquises ? </p>
                 <p class="card-text">Quel est le lien entre ma formation et mes missions </p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions';" class="btn btn-dark">Lire l'article</button>
             </div>
@@ -30,7 +30,7 @@ Plusieurs thèmes seront abordés :
             <img class="card-img-top" src="picture/obstacles.png" alt="Card image cap">
             <div class="card-body">
                 <h5 class="card-title">Les difficultés rencontrées et les solutions apportées</h5>
-                <p class="card-text">Nous évoquerons les challenges auquel j'ai pu être confronté et comment j'ai fait pour les surpassés </p>
+                <p class="card-text">Nous évoquerons les challenges auxquels j'ai pu être confronté et comment je les ai surmontés </p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/challenge';" class="btn btn-dark">Lire l'article</button>
             </div>
         </div>
