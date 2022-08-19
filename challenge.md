@@ -1,5 +1,12 @@
 # Les divers defis surpassés
 
+
+
+###### Réunion Fréquentiel 
+Une réunion téléphonique a également eu lieu avec fréquentiel afin de m’aider sur un des sujet pour mise à jour du PDA
+
+
+
 jour ou coupure électrique te seul (responsable n'étant pas sur site) pour gérer la reprise d'activitées informatiquement parlant
 - configuration ordinateur portable (sessions, connexion bureau distant rds)
 ==> Donner idée mise en place procédures à faire valider dans le cas ou cela se reproduirait
