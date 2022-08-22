@@ -41,7 +41,7 @@ Ces échanges ont permis de comprendre les données mais également de prendre u
 
 
 
-###### Analyse fait et erronées 
+###### Analyse faite et erronées 
 Une analyse sur le stock du nombre de bouteilles avec une prédiction pour les 5 prochaines années.
 Cependant, après avoir montré le résultat au responsable logistique, il se trouve que le résultat était erroné à cause d’une très grosse sortie de bouteilles en 2020. Cela a donc erroné les prédictions.
 Du coup, une discussion à eu lieu afin de définir les données à prendre en compte et les filtres à appliquer. Les filtres appliqués permettent d’utiliser uniquement les données qui nous intéressent c'est-à-dire en enlevant quelques articles et le tiré-bouchée.
