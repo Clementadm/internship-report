@@ -11,13 +11,14 @@ Il a fallu également déplacer les téléphones Wildix (téléphonie via intern
 Une fois les appareils rebranchés, nous avons rebrassé la baie informatique (rebrancher les câbles sur les bons switch) et tout noté sur Excel par utilisateur et appareil).
 La dernière tâche a été de vérifier que chaque prise ethernet sur lequel les utilisateurs sont branchés soit dans le bon réseau (si wyse alors réseaux des wyse, si téléphones alors réseau téléphone). Si c’était pas le cas alors des modifications via le SOPHOS (Firewall) étaient à faire. Cela permet de sécuriser le réseau en isolant les appareils par réseaux.
 
-###### Recherche variées
-<p style="color:6D6D6D;">Visualisation des données</p>
+###### Recherche variées  
+
+<p style="color:#6D6D6D;">Visualisation des données</p>
 Lorsque je travaille sur l'analyse , je recherche toujours de nouvelles manières de présenter les analyses. Je les essaies, et je les compare avec les autres visualisations mit en place. 
 
  
 <p style="color:#6D6D6D;">Recherche de projets</p>
-Lors de mon temps libre, je me mettais à la recherche de projet à mettre en place (heatmap taux remplissage entrepôts). Je regardais les différents outils qui existe déjà. Je me renseigne également s'il est possible de réaliser ces projets (language de programmation, logiciel, progiciel, add-in, extensions, …)  
+Lors de mon temps libre, je me mettais à la recherche de projet à mettre en place (heatmap taux remplissage entrepôts). Je regardais les différents outils qui existent déjà. Je me renseigne également s'il est possible de réaliser ces projets (language de programmation, logiciel, progiciel, add-in, extensions, …)  
 
 
 
