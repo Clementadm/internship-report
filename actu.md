@@ -34,6 +34,10 @@ Les données allaient des noms, au dates de naissance et adresses d’un peu pr�
 Cet homme travaillait pour une société qui fournit des avantages sociaux aux ménages exonérés d'impôts. 
 Cette information rappelle que malgré toutes les sécurité physique et virtuelle (le disque dur étant cryptée) qu’une entreprise peut prendre, il existe toujours une possibilité de breach et leak via l’humain. 
 A savoir l’employé avait accès aux données mais n’avait pas le droit de sortir avec celles-ci.
-Il est donc nécessaire de prioriser la sécurisation des données d’une organisation avant toute chose.
+Il est donc nécessaire de prioriser la sécurisation des données d’une organisation avant toute chose.  
 Source : [CNN](https://www.cnn.com/2022/06/24/asia/japan-amagasaki-usb-data-intl-hnk/index.html)
+
+
+
+
 
