@@ -17,7 +17,7 @@ La dernière tâche a été de vérifier que chaque prise ethernet sur lequel le
 Lorsque je travaille sur l'analyse , je recherche toujours de nouvelles manières de présenter les analyses. Je les essaies, et je les compare avec les autres visualisations mit en place. 
 
  
-*Recherche de projets*
+<p style="color:#6D6D6D;">Recherche de projets</p>
 Lors de mon temps libre, je me mettais à la recherche de projet à mettre en place (heatmap taux remplissage entrepôts). Je regardais les différents outils qui existe déjà. Je me renseigne également s'il est possible de réaliser ces projets (language de programmation, logiciel, progiciel, add-in, extensions, …)  
 
 
