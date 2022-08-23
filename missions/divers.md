@@ -12,7 +12,7 @@ Une fois les appareils rebranchés, nous avons rebrassé la baie informatique (r
 La dernière tâche a été de vérifier que chaque prise ethernet sur lequel les utilisateurs sont branchés soit dans le bon réseau (si wyse alors réseaux des wyse, si téléphones alors réseau téléphone). Si c’était pas le cas alors des modifications via le SOPHOS (Firewall) étaient à faire. Cela permet de sécuriser le réseau en isolant les appareils par réseaux.
 
 ###### Recherche variées
-*Visualisation des données*
+<p style="color:lime;">Visualisation des données</p>
 
 Lorsque je travaille sur l'analyse , je recherche toujours de nouvelles manières de présenter les analyses. Je les essaies, et je les compare avec les autres visualisations mit en place. 
 
