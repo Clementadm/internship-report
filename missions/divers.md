@@ -1,4 +1,4 @@
-# divers
+# Missions diverses
 
 ###### Déménagements des bureaux 
 Un réaménagement des bureaux à eu lieu lors du stage. Les bureaux des salariés ont donc été remaniés afin de rapprocher les personnes d’un même service ainsi que les services qui travaillent en symbiose. 
