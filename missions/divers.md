@@ -11,6 +11,8 @@ Il a fallu également déplacer les téléphones Wildix (téléphonie via intern
 Une fois les appareils rebranchés, nous avons rebrassé la baie informatique (rebrancher les câbles sur les bons switch) et tout noté sur Excel par utilisateur et appareil).
 La dernière tâche a été de vérifier que chaque prise ethernet sur lequel les utilisateurs sont branchés soit dans le bon réseau (si wyse alors réseaux des wyse, si téléphones alors réseau téléphone). Si c’était pas le cas alors des modifications via le SOPHOS (Firewall) étaient à faire. Cela permet de sécuriser le réseau en isolant les appareils par réseaux.
 
+
+
 ###### Recherche variées  
 
 <p style="color:#6D6D6D;">Visualisation des données</p>
@@ -23,20 +25,35 @@ Lors de mon temps libre, je me mettais à la recherche de projet à mettre en pl
 
 
 ###### Recueil des besoins au sein de la société
-Tout le long de mon stage, 
-- receuil des différentes analyse souhaités au près des responseble de service (supply chain, entrepots, av assitance ventes, commerciaux) 
-- réalisation de documentation 
-  - documentation réaliser une réunion depuis salle de dégustation avec ordinateur mit en place pour commerciaux
-  - documentation rélisation réunion depuis salle de réunion pour tout le monde depuis un tableau interractif
-  - réflexion charte informatique le fond et la forme => dynamiser la charte afin que les employées la lise (usesecure, vidéo, papier à signer, support papier)
-- mise en place d'une to do afin de lister et prioriser les taches à faire (demande du responsable dès l'entrée en stage)
-- archivage des pst user outlook 
-- configurer téléphone ip salle réunion en important contact
-- mise à jour es terminaux utiliser dans l'entrepots (contact avec la société afin d'etre dépanner)
-- lire documentation faite par responsable pour s'informer sur les projet mit en place et futur (copil,équipement présent, plans réseau, schéma SI)
-- participation à la reprise de donnée de beychevlle et beaumont pour le passage au nouveau logiciel nommée Primus (récupération ancienne données, nettoyage de données, traitement de donnés)
-
-- mise en place de la téléphonie avec l'entreprise MAIANO
+Tout le long de mon stage, j’ai écouté mes collègues et pris note des différentes analyses qui pourraient être mises en place pour les aider dans leurs missions. Les services consultés ont été la supply chain, la logistique, l'assistance vente et les commerciaux. 
+Ces demandes ont été listés pour des réalisations futures si le temps le permet.  
 
 
 
+######  Documentation 
+<p style="color:#6D6D6D;">Vidéoconférence</p>
+Au sein des locaux plusieurs téléviseurs connectés sont présents. Afin que tout le personnel sache se servirent de celle-ci une procédure par télévision ont été créé. 
+Ces procédures expliquent comment allumer, se connecter, créer ou rejoindre une réunion via Teams.
+
+<p style="color:#6D6D6D;">Charte informatique</p>
+La charte informatique étant à renouveler, une réflexion a été menée sur comment la rendre interactive. Le fond de celle-ci a donc été retravaillé ainsi que la forme uniquement pour la version textuelle. Dynamiser la charte a pour but que les employées prennent le temps de la lire, soit inclus dans le processus et la documentation qu’ils signent. 
+Plusieurs idées ont été évoquées telles qu’une vidéo, un papier à signer compréhensible et lisible, un formulaire ou encore une solution USESECURE.  
+
+
+
+###### Autres
+
+<p style="color:#6D6D6D;">Organizations</p>
+Afin de nous organiser au sein du service informatique un listing des tâches à été mit en place via ToDo. Ce listing nous permet une priorisation des tâches, une attribution avec des dates butoires. Cette demande à été faite par le responsable dès le premier jour de stage 
+
+<p style="color:#6D6D6D;">Sauvegarde PST</p>
+Ayant le désir de sécuriser les données, un NAS est présent afin de sauvegarder certaines données des employés.    
+Un PST (Personal Folders file) est un fichier de données Outlook utilisé pour stocker des copies locales des mails, des événements de calendrier, des contacts et d'autres éléments de la boîte mail principale et des sous-dossiers. 
+La missions a été d’archiver sur le NAS les fichiers PST des anciens employées et de supprimer les fichiers des employées n’étant plus dans la société depuis plus de 2 ans 
+
+<p style="color:#6D6D6D;">Ajout de contact </p>
+Lors du changement de téléphonie, une pieuvre téléphonique a été changée dans l’une des salles de conférences.
+Après configuration de celle-ci, il a fallu réimporter les contacts internes et vérifier que celle-ci fonctionnait correctement. Pour cela un export de la liste des contact des employées à été réalisé, addition puis convertie en CSV avant de l’ajouter sur la pieuvre. 
+
+<p style="color:#6D6D6D;">Renseignement interne</p>
+Dans un désir d'enrichissement et de compréhensions du fonctionnement de la société, une partie de la documentation auquel j’avais accès à été lue. La documentation réalisée par mon responsable était sur divers sujets (COPIL,équipement réseaux, plans réseau, schéma SI, …). Cette documentation m'a permis également de m'informer sur les projets passés, en cours et du futur proche. 
