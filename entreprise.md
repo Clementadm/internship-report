@@ -1,6 +1,6 @@
+<img src="picture/Vins.jpg" class="img-fluid" alt="Source image site Barriere Frères">  
 ### L'entreprise 
 
-<img src="picture/Vins.jpg" class="img-fluid" alt="Source image site Barriere Frères">
 Mon stage à été réalisé au sein de la société **Barrière Frères**.  
 Cette société ainsi que les châteaux Beychevelle et Beaumont appartiennent à la holding GRANDS MILLESIMES DE FRANCE.
 Cette holding est la jointure des sociétés  Suntory et Castel.
