@@ -39,7 +39,7 @@
     <div class="col-sm-6">
         <div class="card text-white bg-dark mb-3" style="max-width: 18rem;">
             <div class="card-header">Missions annexes</div>
-            <img class="card-img-top" src="picture/divers.png" alt="Illustration">
+            <img class="card-img-top" src="picture/divers.jpg" alt="Illustration">
             <div class="card-body">
                 <h5 class="card-title">Divers</h5>
                 <p class="card-text">Mise en place téléphonie, trie matériel info, recherche visualisation remplissage entrepôts</p>
