@@ -39,5 +39,10 @@ Source : [CNN](https://www.cnn.com/2022/06/24/asia/japan-amagasaki-usb-data-intl
 
 
 
-
-
+###### Data Governance Act et Data Act
+Le 5 mai 2022 un communiqué à été fait sur une proposition de loi sur l’accès, le partage et la réutilisation responsables des données en prenant en compte le respect des valeurs de l’Union européenne et notamment la protection des données personnelles.
+Rappelons que le Data Governance Act a été adopté en mai 2022, et sera applicable en septembre 2023.
+La CNIL (Commission nationale de l'informatique et des libertés) donne son avis sur 2 principaux axes :
+“La nécessité de veiller à la cohérence avec le RGPD”
+“La nécessité d’assurer une gouvernance intelligente”  
+Source : [CNIL](https://www.cnil.fr/fr/strategie-europeenne-pour-la-donnee-la-cnil-et-ses-homologues-se-prononcent-sur-le-data-governance)
