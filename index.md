@@ -20,7 +20,7 @@ Plusieurs thèmes seront abordés :
                 <h5 class="card-title">Mes missions</h5>
                 <p class="card-text">Quelles étaient mes missions ?</p>
                 <p class="card-text">Quelles ont été les compétences acquises ? </p>
-                <p class="card-text">Quel est le lien entre ma formation et mes missions </p>
+                <p class="card-text">Quel est le lien entre ma formation et mes missions ? </p>
                 <button onclick="location.href = 'https://clementadm.github.io/internship-report/missions';" class="btn btn-dark">Lire l'article</button>
             </div>
         </div>
