@@ -1,28 +1,28 @@
-# Actualitée et informations 
+# Actualités et informations 
 
 ###### Chrome OS
-Lors du déménagement des bureaux plusieurs anciens PC sous Windows 7 et 8 ont été trouvés.
-Étant en manque de PC portable pour les employés qui souhaitent faire du télétravail, cela tombait bien.
-Mon responsable et moi cherchions donc une solution pour inclure de façon sécurisée ses appareils aux réseaux afin de leurs donner une seconde vie.
+Lors du déménagement des bureaux, plusieurs anciens PC sous Windows 7 et 8 ont été trouvés.
+Étant en manque de PC portables pour les employés qui souhaitent faire du télétravail, cela tombait bien.
+Mon responsable et moi cherchions donc une solution pour inclure de façon sécurisée ces appareils aux réseaux afin de leurs donner une seconde vie.
 Après plusieurs recherches nous avons découvert Chrome OS.
-Chrome OS est le système d'exploitation de Google depuis 2009. Il est très léger et se base sur navigateur web Chrome et le système d'exploitation Linux. 
+Chrome OS est le système d'exploitation de Google depuis 2009. Il est très léger et se base sur le navigateur web Chrome et le système d'exploitation Linux. 
 Il intègre la suite Google Workspace, du coup les applications sont en cloud et non pas hébergées localement. 
 Nous avons donc pensé que cela valait le coup d'installer cet OS sur les anciens ordinateurs.
 Malheureusement après de nouveaux essais, la mission ne fut pas concluante.  
 
 
 ###### CIS VALLEY
-Lors de mon stage, sachant le fonctionnement en interne de nos serveurs et du flux de données. Et ayant pu assister au réunions et COPIL de CIS VALLEY.
-J'ai pu apprendre beaucoup sur le fonctionnement d'un datacenter : les différents dangers, la sécurité mise en place (physique et virtuelle), le mode d'opérations, les différents métiers et opérateurs. 
+Lors de mon stage, sachant le fonctionnement en interne de nos serveurs et du flux de données, j'ai pu assister au réunions et COPIL de CIS VALLEY.
+Cela m'a permis d'apprendre beaucoup sur le fonctionnement d'un datacenter : les différents dangers, la sécurité mise en place (physique et virtuelle), le mode d'opérations, les différents métiers et opérateurs. 
 
 
 
-###### Une baisse des recrutement
+###### Une baisse des recrutements
 Depuis cet été les géants du web ont diminué voir stoppé leurs campagnes de recrutement.
 "Google et Microsoft ont été parmi les premières entreprises à annoncer une pause dans le recrutement, rapidement suivies par Meta, Apple".
 Certaines sociétés ont même licencié certains employés.
 Preuve que le monde de l'informatique est touché par la récession, l'inflation et les différents enjeux économiques mondiaux d'en ce moment.
-Les "conditions du marché" de l'emploie sont donc en train d'évoluer, en espérant que cette évolution ne soit que temporaire.  
+Les "conditions du marché" de l'emploi sont donc en train d'évoluer, en espérant que cette évolution ne soit que temporaire.  
 Source : [Le Monde informatique](https://www.lemondeinformatique.fr/actualites/lire-apres-la-grande-demission-le-grand-gel-des-recrutements-dans-l-it-87610.html)
 
 
@@ -40,7 +40,7 @@ Source : [CNN](https://www.cnn.com/2022/06/24/asia/japan-amagasaki-usb-data-intl
 
 
 ###### Data Governance Act et Data Act
-Le 5 mai 2022 un communiqué à été fait sur une proposition de loi sur l’accès, le partage et la réutilisation responsables des données en prenant en compte le respect des valeurs de l’Union européenne et notamment la protection des données personnelles.
+Le 5 mai 2022 un communiqué a été fait sur une proposition de loi sur l’accès, le partage et la réutilisation responsables des données en prenant en compte le respect des valeurs de l’Union européenne et notamment la protection des données personnelles.
 Rappelons que le Data Governance Act a été adopté en mai 2022, et sera applicable en septembre 2023.
 La CNIL (Commission nationale de l'informatique et des libertés) donne son avis sur 2 principaux axes :
 “La nécessité de veiller à la cohérence avec le RGPD”
